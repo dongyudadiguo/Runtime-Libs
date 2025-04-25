@@ -1,0 +1,1 @@
+#define math_ acos__, asin__, atan__, atan2__, cos__, cosh__, sin__, sinh__, tanh__, exp__, frexp__, ldexp__, log__, log10__, modf__, pow__, sqrt__, ceil__, fabs__, floor__, fmod__

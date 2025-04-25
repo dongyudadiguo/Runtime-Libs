@@ -1,0 +1,9 @@
+void clock__(void);
+void difftime__(void);
+void mktime__(void);
+void time__(void);
+void asctime__(void);
+void ctime__(void);
+void gmtime__(void);
+void localtime__(void);
+void strftime__(void);

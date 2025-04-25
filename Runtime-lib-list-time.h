@@ -1,0 +1,1 @@
+#define time_ clock__, difftime__, mktime__, time__, asctime__, ctime__, gmtime__, localtime__, strftime__
