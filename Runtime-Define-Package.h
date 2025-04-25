@@ -2,7 +2,7 @@
 void name (void){\
     body\
     int tmp2 = *(int*)(buffer + (ptr += size));\
-    if(tmp2 > 0){\
+    if(tmp2 >= 0){\
         imp = fun[tmp2];\
     }else{\
         stack[stackPtr++] = ptr;\
